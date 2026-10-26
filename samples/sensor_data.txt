@@ -1,0 +1,3 @@
+sensor_id=7 value=42
+sensor_id=1 value=10
+sensor_id=2 value=99
